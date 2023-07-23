@@ -18,7 +18,6 @@ This repository contains a Flutter app that serves as a clone of the Instagram h
 - Dart
 - BlurHash Library
 - Bloc
-- [Your additional Flutter packages or dependencies here]
 
 ## Getting Started
 
