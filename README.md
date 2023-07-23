@@ -1,7 +1,8 @@
 # Instagram Home Page Clone with BlurHash Loading in Flutter
 
-![Screenshot 1](assets/images/loading-demo.png)
-![Screenshot 2](assets/images/loaded-demo.png)
+<img src="assets/images/screenshot1.png" alt="Screenshot 1" width="300">
+<img src="assets/images/screenshot2.png" alt="Screenshot 2" width="300">
+
 
 This repository contains a Flutter app that serves as a clone of the Instagram home page, showcasing a loading animation using BlurHash. BlurHash is utilized to display blurred versions of the images while they are loading, offering users a seamless and visually appealing experience.
 
