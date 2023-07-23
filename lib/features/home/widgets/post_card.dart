@@ -30,6 +30,7 @@ class CardPost extends StatelessWidget {
           Padding(
             padding: EdgeInsets.symmetric(horizontal: kEdgeSpacing),
             child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 _buildIconsSection(),
                 SizedBox(height: 10),
